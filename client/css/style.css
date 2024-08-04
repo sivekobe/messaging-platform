@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #messages {
+    border: 1px solid #ccc;
+    height: 300px;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+  }
+  
+  #fileInput {
+    margin-top: 10px;
+  }
+  
